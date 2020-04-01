@@ -160,6 +160,10 @@ h2 {
     margin-top: 3vh;
 }
 
+body {
+    background-image: linear-gradient(rgb(197, 185, 74),rgb(231, 217, 91),khaki);
+}
+
 @media( min-width:700px ) { 
    /* .main { background-image: url(images/ok66.jpg);
     background-size: cover;
