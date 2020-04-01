@@ -113,6 +113,7 @@ h4 {
 #new-span1 {
   width: 75%;
   transition: 5s ease;
+  transition-delay: 1s;
 }
 .span2 {
   width: 0%;
@@ -128,6 +129,7 @@ h4 {
 #new-span2 {
   width: 60%;
   transition: 5s ease;
+  transition-delay: 1s;
 }
 
 .span3 {
@@ -144,6 +146,7 @@ h4 {
 #new-span3 {
   width: 40%;
   transition: 5s ease;
+  transition-delay: 1s;
 }
 
 .mid {
