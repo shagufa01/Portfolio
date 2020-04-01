@@ -108,21 +108,21 @@ h2 {
  .span1 {
     width: 75vw;
      height: 3vh;
-     background-color: rgb(221, 208, 87);
+     background-image: linear-gradient(to right,rgb(119, 47, 47),rgb(153, 41, 41),rgb(156, 55, 55));
      border-radius: 20px;
  }
 
  .span2 {
     width: 60vw;
     height: 3vh;
-    background-color: rgb(221, 208, 87);
+    background-image: linear-gradient(to right,rgb(119, 47, 47),rgb(153, 41, 41),rgb(156, 55, 55));
     border-radius: 20px;
  }
 
  .span3 {
     width: 40vw;
     height: 3vh;
-    background-color: rgb(221, 208, 87); 
+    background-image: linear-gradient(to right,rgb(119, 47, 47),rgb(153, 41, 41),rgb(156, 55, 55)); 
     border-radius: 20px;
     
  }
