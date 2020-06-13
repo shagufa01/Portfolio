@@ -14,30 +14,28 @@
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  /* border-style: inset;
-  border-color: purple; */
   margin-top: 6vh;
   margin-left: 3vw;
 }
 
 .heading {
-  
-  margin-top: 65px;
+  text-align: left;
+  margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 5vw;
   font-size: 35px;
-  color:white;
+  color: white;
   font-style: oblique;
   font-weight: lighter;
 }
 
 /* h3 {
-    margin-left: 5vw;
-    font-size: 25px;
-    color: khaki;
-    font-style: oblique;
-    font-weight: lighter;
-} */
+      margin-left: 5vw;
+      font-size: 25px;
+      color: khaki;
+      font-style: oblique;
+      font-weight: lighter;
+  } */
 
 .fab {
   font-size: 40px;
@@ -104,28 +102,30 @@ h4 {
   height: 3vh;
   background-image: linear-gradient(
     to right,
-  rgb(41, 41, 65), rgb(68, 98, 110),skyblue
+    rgb(47, 47, 73),
+    rgb(59, 59, 136),
+    skyblue
   );
   border-radius: 20px;
 }
 #new-span1 {
-  width: 80%;
-  transition: 5s ease;
-  transition-delay: 1s;
+  width: 75%;
+  transition: 8s linear;
 }
 .span2 {
   width: 0%;
   height: 3vh;
   background-image: linear-gradient(
     to right,
-    rgb(41, 41, 65), rgb(68, 98, 110),skyblue
+    rgb(47, 47, 73),
+    rgb(59, 59, 136),
+    skyblue
   );
   border-radius: 20px;
 }
 #new-span2 {
-  width: 70%;
-  transition: 5s ease;
-  transition-delay: 1s;
+  width: 60%;
+  transition: 8s linear;
 }
 
 .span3 {
@@ -133,14 +133,15 @@ h4 {
   height: 3vh;
   background-image: linear-gradient(
     to right,
-    rgb(41, 41, 65), rgb(68, 98, 110),skyblue
+    rgb(47, 47, 73),
+    rgb(59, 59, 136),
+    skyblue
   );
   border-radius: 20px;
 }
 #new-span3 {
-  width: 45%;
-  transition: 5s ease;
-  transition-delay: 1s;
+  width: 40%;
+  transition: 8s linear;
 }
 
 .mid {
@@ -161,9 +162,9 @@ h4 {
   font-size: 25px;
   margin-left: 3vw;
   margin-top: 2vh;
+  margin-bottom: 2vh;
   color: black;
   text-decoration: none;
-  margin-bottom: 2vh;
 }
 
 .sub {
@@ -175,15 +176,15 @@ h4 {
 }
 
 body {
- background-image: linear-gradient(rgb(235, 178, 178),rgb(235, 116, 136));
+  background-image: linear-gradient(pink, rgb(190, 78, 190));
 }
 
 @media (min-width: 700px) {
   /* .main { background-image: url(images/ok66.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 900px;
-    width: auto; */
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 900px;
+      width: auto; */
   .main {
     background-image: none;
   }
@@ -221,7 +222,6 @@ body {
 
   .foot {
     margin-left: 2vw;
-    margin-top: 10vh;
   }
 
   .mid {
