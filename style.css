@@ -29,6 +29,26 @@
   font-weight: lighter;
 }
 
+.checkbtn {
+  font-size: 30px;
+  float: right;
+  line-height: 80px;
+  margin-right: 60px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#check {
+  display: none;
+}
+
+.list {
+  list-style: none;
+  float: right;
+  margin-top: 100px;
+  margin-right: -70px;
+}
+
 /* h3 {
       margin-left: 5vw;
       font-size: 25px;
