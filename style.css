@@ -14,7 +14,7 @@
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  margin-top: 6vh;
+  margin-top: 8vh;
   margin-left: 3vw;
 }
 
@@ -35,7 +35,7 @@
   line-height: 80px;
   margin-right: 60px;
   cursor: pointer;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 #check {
@@ -45,8 +45,9 @@
 .list {
   list-style: none;
   float: right;
-  margin-top: 100px;
+  margin-top: 80px;
   margin-right: -70px;
+  
 }
 
 /* h3 {
